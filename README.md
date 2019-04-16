@@ -48,12 +48,12 @@ The basic progression for the workshop should be as follows:
 ### Wednesday the 17th of April
 |Time| Activity|
 |---:|---|
-|4.00 pm - 4.30pm|recap|
-|4.30pm - 5.30pm|if statements|
-|5.30pm - 5.45pm|Tea Break|
-|5.45pm - 7.00pm|loops|
-|7.00pm-7.30pm|functions|
-|7.30pm-8pm|Where too next|
+|9.00 am - 9.30am|recap|
+|9.30am - 10.30am|if statements|
+|10.30am - 10.45am|Tea Break|
+|10.45am - 12.00pm|loops|
+|12.00pm-12.30pm|functions|
+|12.30pm-1.00pm|Where too next|
 
 
 
