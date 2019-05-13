@@ -1,10 +1,10 @@
 # Introduction to Python, April 2019 edition
 
-This Python Beginner's workshop will be running from 1:00 pm to 5:00 pm on Monday the 15th of April and from 9:00 am to 1:00 pm on Wednesday the 17th of April, at the CoLab training space, also known as Room 329, Level 3, Eastern Resource Centre, Building 171. Enter at the glass doors next to the Resource cafe, head to the back of the lobby (keep the ERC library entrance on your left) and enter at back right.
+This Python Beginner's workshop will be running from 4:00 pm to 8:00 pm on Tuesday the 14th of May and from 4:00 pm to 8:00 pm on Thursday the 16th of April, at Stop 1 on Swanston street in room 109: Enter from the Swanston street doors and heed up the stairs and  too the left. There will be signage to guide you! [google maps] (https://goo.gl/maps/o6srEx51NDARB4Xz8)
 
 This workshop is designed for those trying to explore and learn about the wonders of Python for the very first time. The content is suitable for a range of learners - from those who have never programmed before, to those who are already proficient in other coding languages. 
 
-This workshop will be using Python 3.6 inside the Jupyter Notebook. You can find installation instructions inside the 
+This workshop will be using Python 3.7 inside the Jupyter Notebook. You can find installation instructions inside the 
 [Python_Installation.md](https://github.com/resbaz/Intro_Python_Nov2017/blob/master/Python_Installation.md)
 instruction file. 
 
@@ -16,6 +16,7 @@ There are a number of light-weight text editors and Integrative Development Envi
 IDEs:
 - Spyder. This comes installed with the Anaconda package, and you should be able to find it in your system's programs list after installation
 - [Pycharm](https://www.jetbrains.com/pycharm/). This one has a free community-edition license, but anybody working on research which could be patented, beware! The pycharm owners dislike the free version being used on for-profit projects, and the licensing reflects this.
+[VScode](https://code.visualstudio.com/docs/python/python-tutorial); Microsoft lightweight editor with a couple of extensions for interactive coding (and my fave!)
 
 Text Editors:
 - [Atom](https://atom.io/). Free. No ads. Allows Git/Github integration
@@ -34,7 +35,7 @@ The basic progression for the workshop should be as follows:
 The basic progression for the workshop should be as follows:
 
 ## Part 1
-### Monday the 14th of April
+### Monday the 14th of May
 |Time| Activity|
 |---:|---|
 |4.00 pm - 5.30pm|Intro to Jupyter and Python|
@@ -45,7 +46,7 @@ The basic progression for the workshop should be as follows:
 
 
 ## Part 2
-### Wednesday the 17th of April
+### Wednesday the 16th of May
 |Time| Activity|
 |---:|---|
 |4.00 pm - 4.30pm|recap|
