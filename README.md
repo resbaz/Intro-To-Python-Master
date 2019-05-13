@@ -16,7 +16,7 @@ There are a number of light-weight text editors and Integrative Development Envi
 IDEs:
 - Spyder. This comes installed with the Anaconda package, and you should be able to find it in your system's programs list after installation
 - [Pycharm](https://www.jetbrains.com/pycharm/). This one has a free community-edition license, but anybody working on research which could be patented, beware! The pycharm owners dislike the free version being used on for-profit projects, and the licensing reflects this.
-[VScode](https://code.visualstudio.com/docs/python/python-tutorial); Microsoft lightweight editor with a couple of extensions for interactive coding (and my fave!)
+- [VScode](https://code.visualstudio.com/docs/python/python-tutorial); Microsoft lightweight editor with a couple of extensions for interactive coding (and my fave!)
 
 Text Editors:
 - [Atom](https://atom.io/). Free. No ads. Allows Git/Github integration
