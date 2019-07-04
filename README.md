@@ -1,6 +1,6 @@
 # Introduction to Python, July 2019 edition
 
-This Python Beginner's workshop will be running from 4:00 pm to 8:00 pm on Tuesday the 14th of May and from 4:00 pm to 8:00 pm on Thursday the 16th of April, at Stop 1 on Swanston street in room 109: Enter from the Swanston street doors and heed up the stairs and  too the left. There will be signage to guide you! [google maps](https://goo.gl/maps/o6srEx51NDARB4Xz8)
+This Python Beginner's workshop will be running from 9:00 am to 1:00 pm on Monday the 8th of July and from 9:00 am to 1:00 pm on Wednesday the 10th of July, at Stop 1 on Swanston street in room 110: Enter from the Swanston street doors and heed up the stairs and  too the left. There will be signage to guide you! [google maps](https://goo.gl/maps/o6srEx51NDARB4Xz8)
 
 This workshop is designed for those trying to explore and learn about the wonders of Python for the very first time. The content is suitable for a range of learners - from those who have never programmed before, to those who are already proficient in other coding languages. 
 
