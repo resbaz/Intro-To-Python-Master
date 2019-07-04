@@ -1,4 +1,4 @@
-# Introduction to Python, April 2019 edition
+# Introduction to Python, July 2019 edition
 
 This Python Beginner's workshop will be running from 4:00 pm to 8:00 pm on Tuesday the 14th of May and from 4:00 pm to 8:00 pm on Thursday the 16th of April, at Stop 1 on Swanston street in room 109: Enter from the Swanston street doors and heed up the stairs and  too the left. There will be signage to guide you! [google maps](https://goo.gl/maps/o6srEx51NDARB4Xz8)
 
@@ -26,35 +26,32 @@ You will also find that the content for the workshop is available in both the ma
 
 ---
 
-## Workshop Schedule
-
-The basic progression for the workshop should be as follows:
 
 ## Workshop Schedule
 
 The basic progression for the workshop should be as follows:
 
 ## Part 1
-### Monday the 14th of May
+### Monday the 8th of July
 |Time| Activity|
 |---:|---|
-|4.00 pm - 5.30pm|Intro to Jupyter and Python|
-|5.30pm - 5:40pm|Short Break|
-|5:40pm - 7.00pm|Lists|
-|7.00pm - 7.15pm|break|
-|7.30pm - 8.00pm|Dictionaries|
+|9.00am - 10.30am|Intro to Jupyter and Python|
+|10.30am - 10:40am|Short Break|
+|10:40am - 11.00am|Lists|
+|11.00am - 12.15pm|break|
+|12.15pm - 1.00pm|Dictionaries|
 
 
 ## Part 2
-### Wednesday the 16th of May
+### Wednesday the 10th of July
 |Time| Activity|
 |---:|---|
-|4.00 pm - 4.30pm|recap|
-|4.30pm - 5.30pm|if statements|
-|5.30pm - 5.45pm|Tea Break|
-|5.45pm - 7.00pm|loops|
-|7.00pm-7.30pm|functions|
-|7.30pm-8pm|Where too next|
+|9.00am - 10.30am|recap|
+|10.30am - 10:40am|if statements|
+|10:40am - 11.00am|Tea Break|
+|11.00am - 12.00am|loops|
+|12.00pm - 12.30pm|functions|
+|12.30pm - 1.00pm|Where too next|
 
 
 
