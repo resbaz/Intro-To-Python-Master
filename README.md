@@ -34,12 +34,13 @@ The basic progression for the workshop should be as follows:
 ## Part 1
 ### Monday the 8th of July
 |Time| Activity|
-|---:|---|
-|9.00am - 10.30am|Intro to Jupyter and Python|
-|10.30am - 10:40am|Short Break|
-|10:40am - 11.00am|Lists|
-|11.00am - 12.15pm|break|
-|12.15pm - 1.00pm|Dictionaries|
+|---:|---|-----|
+|9.00am - 10.30am|Intro to Jupyter and Python| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/resbaz/Intro-To-Python-Master.git/intro_python_online)|
+
+|10.30am - 10:40am|Short Break| |
+|10:40am - 11.00am|Lists| |
+|11.00am - 12.15pm|break| |
+|12.15pm - 1.00pm|Dictionaries| |
 
 
 ## Part 2
