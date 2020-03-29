@@ -1,12 +1,7 @@
-# Introduction to Python, July 2019 edition
+# Introduction to Python, Online Edition
 
-This Python Beginner's workshop will be running from 9:00 am to 1:00 pm on Monday the 8th of July and from 9:00 am to 1:00 pm on Wednesday the 10th of July, at Stop 1 on Swanston street in room 110: Enter from the Swanston street doors and heed up the stairs and  too the left. There will be signage to guide you! [google maps](https://goo.gl/maps/o6srEx51NDARB4Xz8)
+Greetings Pythonistas, this repository holds the online version of the Introduction to Python Workshop brought to you by the Research Computing Services at the University of Melboure. This is a self paced version of the face to face workshop we have been running for years, and is designed for researchers who have never tried to code before, but are interested in learning how to use python for more interesting analyses that could be possible using traditional desktop programs. 
 
-This workshop is designed for those trying to explore and learn about the wonders of Python for the very first time. The content is suitable for a range of learners - from those who have never programmed before, to those who are already proficient in other coding languages. 
-
-This workshop will be using Python 3.7 inside the Jupyter Notebook. You can find installation instructions inside the 
-[Python_Installation.md](https://github.com/resbaz/Intro_Python_Nov2017/blob/master/Python_Installation.md)
-instruction file. 
 
 **Note if you are having trouble installing Python, feel free to show up 15 minutes early so I can help you with the installation**
 
@@ -33,7 +28,7 @@ The basic progression for the workshop should be as follows:
 
 ## Part 1
 ### Monday the 8th of July
-|Time| Activity|
+|Approximate lesson length| Lesson name |Online Instance|
 |---:|---|-----|
 |9.00am - 10.30am|Intro to Jupyter and Python| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/resbaz/Intro-To-Python-Master.git/intro_python_online)|
 
